@@ -1,0 +1,174 @@
+C:\Users\krama\eclipse-workspace\gold_transfer>java -jar target/gold_transfer-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+=============START===================
+----------- 1 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 94 kg of gold in GoldHeap......
+----------- 2 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 88 kg of gold in GoldHeap......
+----------- 3 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 82 kg of gold in GoldHeap......
+----------- 4 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 76 kg of gold in GoldHeap......
+----------- 5 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 70 kg of gold in GoldHeap......
+----------- 6 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 64 kg of gold in GoldHeap......
+----------- 7 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 58 kg of gold in GoldHeap......
+----------- 8 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 52 kg of gold in GoldHeap......
+----------- 9 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 46 kg of gold in GoldHeap......
+----------- 10 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 40 kg of gold in GoldHeap......
+----------- 11 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 34 kg of gold in GoldHeap......
+----------- 12 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 28 kg of gold in GoldHeap......
+----------- 13 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 22 kg of gold in GoldHeap......
+----------- 14 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 16 kg of gold in GoldHeap......
+----------- 15 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 10 kg of gold in GoldHeap......
+----------- 16 loop --------------
+Loader got 6 kg of gold
+Loader start to load gold into wagon, it will took 3 sec
+Loader finishes to load 6 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 6 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 6 kg of gold and starts to unload it...it will take 2 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 6 kg of gold.....
+Remains 4 kg of gold in GoldHeap......
+----------- 17 loop --------------
+Loader got 4 kg of gold
+Loader start to load gold into wagon, it will took 2 sec
+Loader finishes to load 4 kg of gold, transfer wagon to Transporter =======>
+Transporter is going to carry the wagon with 4 kg of gold during 3 sec
+Transporter finishes to carry the wagon, transfer wagon to Unloader =======>
+Unloader gets the wagon with 4 kg of gold and starts to unload it...it will take 1 sec
+Unloader finishes to unload the wagon, transfer wagon to Loader back =======>
+On this iteration was transferred 4 kg of gold.....
+Remains 0 kg of gold in GoldHeap......
+=============END===================
+There isn't any gold in GoldHeap, ALL WORK is DONE !!!!!
